@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     overflow: 'hidden',
-    width: 300,  // Adjust the width and height as needed
+    width: 300, 
     height: 220,
     margin: 20,
   },
