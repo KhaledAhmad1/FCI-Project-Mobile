@@ -1,4 +1,3 @@
-// components/Header/Header.js
 import React from "react";
 import { View, StyleSheet } from "react-native";
 import Navbar from "./Navbar";
