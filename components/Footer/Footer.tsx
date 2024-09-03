@@ -66,9 +66,6 @@ const styles = StyleSheet.create({
     color: 'white',
     marginBottom: 10,
   },
-  servicesList: {
-    // Style for the list of services
-  },
   serviceItem: {
     color: 'white',
     marginBottom: 10,
