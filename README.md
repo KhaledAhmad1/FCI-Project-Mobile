@@ -2,6 +2,15 @@
 
 A comprehensive Mobile application for students, providing easy access to lecture schedules, professor availability, campus navigation, college news, regulations, and a chatbot for assistance.
 
+## Table of Contents
+
+- [Demo](#demo)
+- [Installation](#installation)
+
+## Demo
+Check out the live demo of the FCI College Portal to see it in action.
+- [Live Demo](https://drive.google.com/drive/u/0/folders/1HmzwcxCoHAm8_EqvVno_3W_qt3hgGbI7)
+  
 ## Installation
 
 To set up the project locally, follow these steps:
