@@ -554,11 +554,11 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.3,
         shadowRadius: 5,
         elevation: 8,
-        width: '90%', // Adjust the width based on your needs
+        width: '90%', 
       },
       image: {
         width: '100%',
-        height: 400, // Adjust height based on the image aspect ratio
+        height: 400, 
       },
 });
 export default ChatbotScreen;
