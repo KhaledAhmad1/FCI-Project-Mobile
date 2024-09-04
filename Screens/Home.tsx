@@ -1,4 +1,3 @@
-// Screens/Home.js
 import React from "react";
 import { ScrollView, StyleSheet, View } from "react-native";
 import MainContent from "../components/Home/MainContent";
