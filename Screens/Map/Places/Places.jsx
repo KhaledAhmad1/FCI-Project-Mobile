@@ -220,7 +220,7 @@ const styles = StyleSheet.create({
   },
   image: {
     maxWidth: '100%',
-    height: 200, // Adjust height as needed
+    height: 200, 
   },
   spinner: {
     flex: 1,
